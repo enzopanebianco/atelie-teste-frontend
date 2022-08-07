@@ -11,7 +11,6 @@ export const ButtonContainer = styled.button`
   font-weight:600;
   font-size: ${p=>p.large?'0.9rem':'0.65rem'};
   cursor: pointer;
-  letter-spacing:1px;
 
   @media(max-width:390px){
     align-self:center;

@@ -106,10 +106,9 @@ function Register() {
             </Form.Field>
             <Form.Field>
               <Form.Label>Classificação</Form.Label>
-              <Form.Select
+              <Form.Select 
                 errorColor={errors.segment?.message}
                 {...register("segment")}>
-                <option >Escolha sua categoria</option>
                 <option value="Manager">Gerente</option>
                 <option value="Dealer">Revendedor</option>
                 <option value="Distributor">Distribuidor</option>

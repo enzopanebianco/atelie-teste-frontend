@@ -25,6 +25,8 @@ export default function ModalUser({ modalUser, setModalUser }) {
         <Modal
             isOpen={modalUser}
             style={customStyles}
+            appElement={document.getElementById('root')}
+            ariaHideApp={false}
             onRequestClose={() => setModalUser(false)}
         >
             <ModalContainer>

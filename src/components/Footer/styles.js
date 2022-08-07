@@ -71,7 +71,7 @@ export const FooterContact = styled.div`
         color:black
     }
     @media(max-width:390px){
-        font-size:0.4rem;
+        font-size:0.35rem;
     }
    
 `

@@ -13,6 +13,9 @@ export const Container = styled.form`
     @media(max-width:390px){
         width: 80%;
         align-items:flex-start;
+        p{
+            font-size: 0.75rem;
+        }
     }
 `
 export const Title = styled.h2`

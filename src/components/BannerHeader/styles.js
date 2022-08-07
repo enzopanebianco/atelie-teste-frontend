@@ -56,8 +56,7 @@ export const CloudImg = styled.img`
     transform: translateY(60px) translateX(-30px);
 
     @media(max-width:390px){
-        width: 55%;
-        transform: translateY(40px) translateX(-80px);
+        transform: translateY(40px) translateX(-50px);
 
     }
 
