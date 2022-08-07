@@ -8,20 +8,24 @@ function Footer() {
         <S.FooterCampaign>
           <strong>SÓ QUEM VENDE CURTE AS</strong>
           <strong>EXPERIÊNCIAS MAIS DIFERENTONAS!</strong>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-            when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with
-            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+          <p>*Campanha válida de 01/02 a 31/03/2020. Vendas via Business Center
+            e para o Setor Público não serão válidas. A apuração do mês de agosto sera retroativa. Imagens meramente ilustrativas.
+            Realizamos todos os esforços para garantir a precisão das informações, mas não
+            somos responsáveis por qualquer contéudo editorial, fotográfico ou por erros
+            tipográficos. Todas as imagens são apenas para fins ilustrativos. Para especificações
+            completas de produto, informações de serviços e garantias, visite
+            www.umbrindenaeuropa/saiba. Não fazemos nenhuma representação ou garantia em relação
+            a produtos ou serviços de terceiros. Outros nomes de empresas, produtos e
+            serviços podem ser marcas registradas ou marcas de serviços de terceiros. © 2020.
+            Todos os direitos reservados.</p>
         </S.FooterCampaign>
         <Logo />
       </S.FooterContainer>
       <S.FooterContact>
-       
-          <p>Dúvidas? Envie um e-mail para: <a>
-            atendimento@umbrindenaeuropa.com.br
-          </a>
+
+        <p>Dúvidas? Envie um e-mail para: <a>
+          atendimento@umbrindenaeuropa.com.br
+        </a>
         </p>
         <p>Imagens meramente ilustrativas. Promoção válida de 01/02 a 31/03/2020</p>
       </S.FooterContact>

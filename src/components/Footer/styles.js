@@ -41,6 +41,7 @@ export const FooterCampaign = styled.div`
     p{
         margin-top: 1rem;
         font-size:0.75rem;
+        text-align:justify;
     }
     @media(max-width:850px){
        strong{
